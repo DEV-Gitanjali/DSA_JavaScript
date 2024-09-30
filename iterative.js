@@ -9,4 +9,5 @@ function mypower(x,n){
   return res;
 }
 
-console.log(mypower(4,5)); // output: 8
+console.log(mypower(4,5)); 
+
