@@ -29,4 +29,5 @@ function fun(n){
 }
 
 let n=16;
-console.log(fun(13));
+// console.log(fun(13));
+console.log(fun(16));
