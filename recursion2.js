@@ -9,5 +9,5 @@ class RecursiveTraverse{
 }
 (function main(){
   const g = new RecursiveTraverse();
-   g.traverse(10);
+   g.traverse(30);
 }) ();
